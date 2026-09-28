@@ -1,0 +1,6 @@
+{
+  "name": "TradingView Markets Dashboard",
+  "description": "Real-time interactive global financial markets dashboard featuring stock indices, live charts, world movers, crypto, commodities, forex, and search.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
